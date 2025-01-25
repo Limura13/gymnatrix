@@ -5,7 +5,7 @@
   "start_url": "https://gymnatrix.ru/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff3352",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/Limura13/gymnatrix/refs/heads/main/icon192.png",
