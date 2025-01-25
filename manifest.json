@@ -1,0 +1,21 @@
+{
+  "name": "Gymnatrix",
+  "short_name": "Gymnatrix",
+  "description": "Фитнес-программы и тренировки для дома и зала",
+  "start_url": "https://gymnatrix.ru/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00B5B8",
+  "icons": [
+    {
+      "src": "https://gymnatrix.ru/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://gymnatrix.ru/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
